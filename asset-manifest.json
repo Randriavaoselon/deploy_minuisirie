@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/deploy_minuisirie/static/css/main.28832f42.css",
+    "main.js": "/deploy_minuisirie/static/js/main.55b26740.js",
+    "static/media/fond2.gif": "/deploy_minuisirie/static/media/fond2.149f5cdaa734a9b7a5c4.gif",
+    "static/media/pro3.png": "/deploy_minuisirie/static/media/pro3.f95a927693fb1720fc02.png",
+    "static/media/fond.png": "/deploy_minuisirie/static/media/fond.3103703cfebe04c6c8bf.png",
+    "static/media/pro2.png": "/deploy_minuisirie/static/media/pro2.b7774e20a41e27654d9f.png",
+    "static/media/pro1.png": "/deploy_minuisirie/static/media/pro1.5d912a0526838c71e699.png",
+    "static/media/logo2.png": "/deploy_minuisirie/static/media/logo2.c5f23904dbadc4ac4849.png",
+    "static/media/arnolde.png": "/deploy_minuisirie/static/media/arnolde.c225bc479b35550807c8.png",
+    "index.html": "/deploy_minuisirie/index.html",
+    "main.28832f42.css.map": "/deploy_minuisirie/static/css/main.28832f42.css.map",
+    "main.55b26740.js.map": "/deploy_minuisirie/static/js/main.55b26740.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28832f42.css",
+    "static/js/main.55b26740.js"
+  ]
+}
